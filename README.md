@@ -20,7 +20,7 @@ A quiet, text-first personal blog for Robert DeRosa, covering Long COVID, scienc
 
 Want to create your own version of this project with all the content and structure? Clone this Cosmic bucket and code repository to get started instantly:
 
-[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6a8a35dcb38644920ec91908&clone_repository=6a8a37f9b38644920ec9194e)
+[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6aba00a978d5b77427059f28&clone_repository=6a8a37f9b38644920ec9194e)
 
 ## Prompts
 
